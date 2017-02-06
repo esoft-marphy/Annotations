@@ -27,7 +27,7 @@
 
 		"doctrine/annotations": "~1.2",
 		"kdyby/doctrine-cache": "~2.4@dev"
-	}
+	},
 	"conflict": {
 		"kdyby/doctrine": "0.9.*"
 	},
